@@ -1,4 +1,8 @@
 # Movie Search
+***How to use***
+- Just run it on your localhost using 'python3 -m http.server' while in the current project directory.
+- I'm not paying to host it on the web
+
 ***Tech Used***
 - HTML
 - CSS
